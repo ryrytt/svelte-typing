@@ -1,12 +1,12 @@
+<svelte:head>
+  <title>TOP</title>
+</svelte:head>
+
 <template lang="pug">
-  h1 Great success!
-
-  figure
-    img(alt='Borat' src='great-success.png')
-    figcaption タイピング
-
-  p
-    strong Try editing this file (src/routes/index.svelte) to test live reloading.
+  .container
+    GameTop
 </template>
 
-<style src="./__styles/index.styl"></style>
+<script>
+  import GameTop from '@/components/molecules/GameTop.svelte'
+</script>

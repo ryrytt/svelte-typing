@@ -1,7 +1,8 @@
 body {
   margin: 0;
-  font-family: Noto Sans JP,Hiragino Kaku Gothic ProN,Meiryo,sans-serif;
+  font-family: 'M PLUS 1p', sans-serif;
   font-size: 14px;
+  font-weight: 300;
   line-height: 1.5;
   color: #333;
 }

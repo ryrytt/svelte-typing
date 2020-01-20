@@ -1,0 +1,31 @@
+{
+  "questions": [
+    {
+      "level": 1,
+      "contents": [
+        {
+          "content": "ニンジン",
+          "kana": "にんじん"
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "contents": [
+        {
+          "content": "眼鏡",
+          "kana": "めがね"
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "contents": [
+        {
+          "content": "たわし",
+          "kana": "たわし"
+        }
+      ]
+    }
+  ]
+}
