@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "sapper dev",
     "build": "sapper build",
-    "export": "sapper export",
+    "export": "sapper export --basepath svelte-typing",
+    "deploy": "npm run export && node ./scripts/gh-pages.js",
     "start": "node __sapper__/build",
     "cy:run": "cypress run",
     "cy:open": "cypress open",
@@ -18,6 +19,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.7.4",
+    "gh-pages": "^2.2.0",
     "npm-run-all": "^4.1.5",
     "postcss": "^7.0.26",
     "postcss-load-config": "^2.1.0",
