@@ -2,6 +2,9 @@
 
 [Sapper](https://github.com/sveltejs/sapper) でタイピングゲームを作ってみる
 
+masterブランチはgh-pages用にexportしたものを置いているので、
+srcはdevelopブランチに
+
 ## demo
 https://ryrytt.github.io/svelte-typing/
 
