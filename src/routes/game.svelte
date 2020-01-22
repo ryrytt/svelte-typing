@@ -23,7 +23,7 @@
             span CLEAR TIME
             span.time {clearTime}
         .back(in:fly="{{x:100, duration: 1000, delay: 3000}}")
-          a(href="/")
+          a(href="./")
             Button(label="Back")
 
 </template>
