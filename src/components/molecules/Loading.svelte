@@ -17,7 +17,7 @@
   let promise = fetchQuestionData()
 
   async function fetchQuestionData() {
-    const res = await fetch(`/data/questions.json`)
+    const res = await fetch(`./data/questions.json`)
     const json = await res.json()
 
     if (res.ok) {
