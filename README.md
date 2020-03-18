@@ -6,7 +6,7 @@ masterブランチはgh-pages用にexportしたものを置いているので、
 srcはdevelopブランチに  
 (後日、整理します。。)
 
-## Page view
+## Page
 https://ryrytt.github.io/svelte-typing/
 
 
