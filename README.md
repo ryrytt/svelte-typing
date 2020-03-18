@@ -3,9 +3,10 @@
 [Sapper](https://github.com/sveltejs/sapper) でタイピングゲームを作ってみる
 
 masterブランチはgh-pages用にexportしたものを置いているので、
-srcはdevelopブランチに
+srcはdevelopブランチに  
+(後日、整理します。。)
 
-## demo
+## Page view
 https://ryrytt.github.io/svelte-typing/
 
 
